@@ -1,0 +1,19 @@
+{
+  "name": "peso-em-outros-planetas",
+  "version": "1.0.0",
+  "description": "Um programa que calcula o peso do usuario em um planeta selecionado.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaleo-Stark/peso-em-outros-planetas.git"
+  },
+  "author": "Kaleo-Stark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaleo-Stark/peso-em-outros-planetas/issues"
+  },
+  "homepage": "https://github.com/Kaleo-Stark/peso-em-outros-planetas#readme"
+}
